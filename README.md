@@ -1,0 +1,2 @@
+# GoBrot
+Mandelbrot in Go
